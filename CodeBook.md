@@ -40,9 +40,9 @@ The training and the test sets were combined to create one data set. Then only t
 * 4=SITTING 
 * 5=STANDING
 * 6=LAYING
-The files were combined using the `R cbind()` function 
 
-The `aggregate()` function was used to aggregate the resultant data frame. It represents a summary of a scalar valued statistic, broken down by one or more groups. The `aggregate ()` presents the results in a data frame instead of a table.
+The files were combined using the `R cbind()` function. 
+The `aggregate()` function was used to aggregate the resultant data frame. `The aggregate()` function represents a summary of a scalar valued statistic, broken down by one or more groups. The `aggregate ()` presents the results in a data frame instead of a table.
 
 ### Number of Attributes:
 * No. of attributes = 68
